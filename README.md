@@ -1,2 +1,2 @@
 # olifoxstudio-site
-Website for Olifoxstudio animation gallery
+Website for Olifoxstudio animation gallery - under developing
